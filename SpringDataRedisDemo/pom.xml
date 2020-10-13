@@ -11,7 +11,7 @@
     <!--作为测试demo，依赖有：单元测试juntil，spring、redis的依赖-->
     <properties>
         <spring.version>4.2.4.RELEASE</spring.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
     <dependencies>
         <!-- 缓存：引入Jedis和SpringDataRedis依赖 -->
